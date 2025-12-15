@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Penentuan Masalah Lingkungan</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>Penentuan Masalah Lingkungan</h1>
+        <p>Mengidentifikasi permasalahan utama lingkungan alam</p>
+    </header>
+
+    <section class="content">
+        <h2>A. Latar Belakang Masalah</h2>
+        <p>
+            Lingkungan alam memiliki peran penting dalam menjaga keseimbangan
+            kehidupan. Namun, perkembangan aktivitas manusia yang tidak
+            terkendali menyebabkan berbagai kerusakan lingkungan yang semakin
+            mengkhawatirkan.
+        </p>
+
+        <h2>B. Identifikasi Masalah</h2>
+        <ul>
+            <li>Peningkatan pencemaran lingkungan (air, udara, dan tanah).</li>
+            <li>Kerusakan hutan akibat penebangan liar.</li>
+            <li>Peningkatan volume sampah plastik.</li>
+            <li>Berkurangnya kesadaran masyarakat terhadap pelestarian alam.</li>
+        </ul>
+
+        <h2>C. Penentuan Masalah</h2>
+        <p>
+            Berdasarkan identifikasi di atas, masalah utama yang ditentukan
+            dalam kajian ini adalah <strong>rendahnya kesadaran masyarakat
+            terhadap pentingnya menjaga lingkungan</strong>, yang berdampak
+            pada meningkatnya pencemaran dan kerusakan alam.
+        </p>
+
+        <h2>D. Tujuan Penelitian</h2>
+        <p>
+            Tujuan dari penentuan masalah ini adalah untuk meningkatkan
+            pemahaman masyarakat mengenai dampak kerusakan lingkungan serta
+            mendorong partisipasi aktif dalam upaya pelestarian alam.
+        </p>
+
+        <button onclick="showMessage()">Kesimpulan</button>
+    </section>
+
+    <footer>
+        <p>© 2025 Kajian Lingkungan | Peduli Alam 🌱</p>
+    </footer>
+
+</body>
+</html>
